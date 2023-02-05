@@ -32,12 +32,16 @@ I don't know how I got here And do it for what goal, but in the end I have done 
 }
 ```
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlameKung&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px)]()
 
 
 
 ## Latest Tweets
-
 
   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ifeeling_2008&layout=wide)](https://twitter.com/Ifeeling_2008)
 
@@ -83,6 +87,7 @@ image credit: NASA/STScI
 
 
 ---
+
 
 
 
