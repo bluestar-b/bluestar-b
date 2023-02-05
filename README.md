@@ -65,7 +65,7 @@ My fav james webb space telescope image
 ---
 
 >>> 
-![](https://stsci-opo.org/STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ.png)
+![](STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ.png)
 
 
 
