@@ -9,13 +9,14 @@
 I don't know how I got here And do it for what goal, but in the end I have done it and we are winner if not too weak.
 ```
 
+### my stats📊
 ```css
-codeing {
+#codeing {
   python: 30%;
   html: 20%;
   javascript: 16%;
   css: 10%;
-    }
+}
 
 ```
 
