@@ -2,8 +2,12 @@
 
 > my name is mac yeah just call mac
 
-> I don't know how I got here And do it for what goal, but in the end I have done it and we are winners if not too weak.
 
+
+
+```diff
+I don't know how I got here And do it for what goal, but in the end I have done it and we are winners if not too weak.
+```
 
 
 
