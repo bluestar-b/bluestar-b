@@ -2,7 +2,7 @@
 
 > my name is mac yeah just call mac
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/829156179803504670)]()
+[![Discord Presence](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=c199c4&borderRadius=35px)]()
 
 
 
