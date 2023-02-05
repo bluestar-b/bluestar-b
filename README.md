@@ -13,7 +13,7 @@ I don't know how I got here And do it for what goal, but in the end I have done 
 #codeing {
   python;
   html;
-  javascrip;
+  javascript;
   css;
 }
 
