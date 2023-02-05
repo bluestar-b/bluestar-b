@@ -3,10 +3,10 @@
 
 
 
-> **my name is mac yeah just call mac**
-> just 15 ~ 17 years person 
-> And Non binary
-> i always stand with neutrality
+> **my name is mac yeah just call mac**<br>
+> age 15 ~ 17 yrs(guess it)<br>
+> And Non binary <br>
+> __i always stand with neutrality__<br>
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=I+don%27t+know+how+I+got+here+And+do+it+for+what+goal%2C+but+in+the+end+I+have+done+it+and+we+are+winner+if+not+too+weak.)
 
 ```css
