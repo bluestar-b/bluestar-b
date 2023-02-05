@@ -2,14 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=flamekung&label=Sussy%20profile%20views&color=ff69b4&style=flat)
 
 
+
 > my name is mac yeah just call mac
 
 
-
-
-```
-I don't know how I got here And do it for what goal, but in the end I have done it and we are winner if not too weak.
-```
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=I+don%27t+know+how+I+got+here+And+do+it+for+what+goal%2C+but+in+the+end+I+have+done+it+and+we+are+winner+if+not+too+weak.)
 
 ```css
 #codeing {
