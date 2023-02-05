@@ -43,7 +43,7 @@
 ---
 
 
-![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px)
+![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px&idleMessage=nothing+happened)
 
 
 
