@@ -1,4 +1,6 @@
 ### Hello
+![](https://komarev.com/ghpvc/?username=flamekung&label=Sussy%20profile%20views&color=ff69b4&style=flat)
+
 
 > my name is mac yeah just call mac
 
