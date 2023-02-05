@@ -11,10 +11,10 @@ I don't know how I got here And do it for what goal, but in the end I have done 
 
 ```css
 #codeing {
-  python: 30%;
-  html: 20%;
-  javascript: 16%;
-  css: 10%;
+  python;
+  html;
+  javascrip;
+  css;
 }
 
 #framework_and_library {
