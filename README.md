@@ -9,7 +9,6 @@
 I don't know how I got here And do it for what goal, but in the end I have done it and we are winner if not too weak.
 ```
 
-### my stats
 ```css
 #codeing {
   python: 30%;
@@ -17,16 +16,12 @@ I don't know how I got here And do it for what goal, but in the end I have done 
   javascript: 16%;
   css: 10%;
 }
-
+#framework_and_library {
+  flask;
+  vuejs;
+  diffhtml;
+  jquery;
 ```
-### my fav frameworks
-```yaml
-for_web:
-  1: vuejs
-  2: diffhtml
-  3: Query
-```
-
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px)]()
