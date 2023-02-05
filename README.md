@@ -32,14 +32,21 @@ I don't know how I got here And do it for what goal, but in the end I have done 
 }
 ```
 
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px)]()
+
+
+
+## Latest Tweets
+
+
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ifeeling_2008&layout=wide)](https://twitter.com/mokkapps)\n
+
+
 
 
 
 
 ---
-
 
 
 My favorite thing about astronomy
@@ -76,4 +83,7 @@ image credit: NASA/STScI
 
 
 ---
+
+
+
 
