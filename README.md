@@ -37,6 +37,25 @@ I don't know how I got here And do it for what goal, but in the end I have done 
 
 
 
-```py
-print("Never gonna give your up")
-```
+
+---
+
+
+
+My favorite thing about astronomy
+---
+>>> 
+![](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA00452.jpg)
+ 
+ 
+That's the pale blue dot image it just small dust in the universe
+
+
+
+**I hope you realize something.**
+
+image credit: NASA
+
+
+
+---
