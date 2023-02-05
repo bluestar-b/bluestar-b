@@ -16,11 +16,20 @@ I don't know how I got here And do it for what goal, but in the end I have done 
   javascript: 16%;
   css: 10%;
 }
+
 #framework_and_library {
   flask;
   vuejs;
   diffhtml;
   jquery;
+}
+
+#learning {
+  expressjs;
+  typescript;
+  exs;
+  bash;
+}
 ```
 
 
