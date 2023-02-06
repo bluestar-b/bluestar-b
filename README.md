@@ -36,31 +36,31 @@
   <p>
    <img alt="" src="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=algolia&amp;quote=I+don%27t+know+how+I+got+here+And+do+it+for+what+goal%2C+but+in+the+end+I+have+done+it+and+we+are+winner+if+not+too+weak."/>
   </p>
-  <p>
-   ```css
+ 
+```css
 
-   codeing {
-   html;
-   css;
-   js;
-   py;
+codeing {
+  html;
+  css;
+  js;
+  py;
+}
+framework_and_library {
+  flask;
+  vuejs;
+  diffhtml;
+  jquery;
+ }
+  
+learning {
+  expressjs;
+  typescript;
+  exs;
+  bash;
    }
-   framework_and_library {
-   flask;
-   vuejs;
-   diffhtml;
-   jquery;
-   }
-  </p>
-  <h1>
-   learning {
-   expressjs;
-   typescript;
-   exs;
-   bash;
-   }
-   ```
-  </p>
+
+```
+
   <p>
    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlameKung&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact"/>
   </p>
