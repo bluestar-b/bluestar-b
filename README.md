@@ -100,6 +100,8 @@ learning {
    image credit: NASA/STScI
   </p>
   <hr/>
+ </body>
+
 <style>
 body {
   background-repeat: no-repeat;
@@ -109,5 +111,5 @@ body {
   font-family: "System-UI", sans-serif;
 }
 </style>
- </body>
-</html>⏎
+</html>
+
