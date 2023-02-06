@@ -9,10 +9,10 @@
    <img alt="" src="https://komarev.com/ghpvc/?username=flamekung&amp;label=Sussy%20profile%20views&amp;color=ff69b4&amp;style=flat"/>
   </p>
 
-> my name is mac yeah just call mac
-> age 15 ~ 17 yrs(guess it)&lt;br&gt;
-> And Non binary
-> i always stand with neutrality 
+> my name is mac yeah just call mac<br>
+> age 15 ~ 17 yrs(guess it)<br>
+> And Non binary<br>
+> i always stand with neutrality <br>
   <hr/>
   <p>
    <img alt="" src="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=algolia&amp;quote=I+don%27t+know+how+I+got+here+And+do+it+for+what+goal%2C+but+in+the+end+I+have+done+it+and+we+are+winner+if+not+too+weak."/>
