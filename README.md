@@ -38,61 +38,27 @@
   </p>
   <p>
    ```css
-  </p>
-  <h1>
+
    codeing {
-  </h1>
-  <p>                                                                                      python;
-  </p>
-  <p>
    html;
-  </p>
-  <p>
-   javascript;
-  </p>
-  <p>
    css;
-  </p>
-  <p>
+   js;
+   py;
    }
-  </p>
-  <h1>
    framework_and_library {
-  </h1>
-  <p>
    flask;
-  </p>
-  <p>
    vuejs;
-  </p>
-  <p>
    diffhtml;
-  </p>
-  <p>
    jquery;
-  </p>
-  <p>
    }
   </p>
   <h1>
    learning {
-  </h1>
-  <p>
    expressjs;
-  </p>
-  <p>
    typescript;
-  </p>
-  <p>
    exs;
-  </p>
-  <p>
    bash;
-  </p>
-  <p>
    }
-  </p>
-  <p>
    ```
   </p>
   <p>
