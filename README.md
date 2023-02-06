@@ -1,7 +1,7 @@
 <!DOCTYPEhtml>
 <html>
  <head>                                                                                  </head>
- <body>
+ <body style='background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-position: center center; font-family: "System-UI", sans-serif;'>
   <h3>
    Hello
   </h3>
@@ -101,15 +101,5 @@ learning {
   </p>
   <hr/>
  </body>
-
-<style>
-body {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
-  font-family: "System-UI", sans-serif;
-}
-</style>
 </html>
 
