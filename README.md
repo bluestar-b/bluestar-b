@@ -100,5 +100,14 @@ learning {
    image credit: NASA/STScI
   </p>
   <hr/>
+<style>
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  font-family: "System-UI", sans-serif;
+}
+</style>
  </body>
 </html>⏎
