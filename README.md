@@ -8,28 +8,11 @@
   <p>
    <img alt="" src="https://komarev.com/ghpvc/?username=flamekung&amp;label=Sussy%20profile%20views&amp;color=ff69b4&amp;style=flat"/>
   </p>
-  <blockquote>
-   <p>
-    <strong>
-     my name is mac yeah just call mac
-    </strong>
-    &lt;br&gt;
-   </p>
-  </blockquote>
-  <blockquote>
-   <p>
-    age 15 ~ 17 yrs(guess it)&lt;br&gt;
-   </p>
-  </blockquote>                                                                           <blockquote>
-   <p>
-    And Non binary &lt;br&gt;
-   </p>                                                                                   </blockquote>
-  <blockquote>
-   <p>
-    <strong>
-     i always stand with neutrality
-    </strong>
-    &lt;br&gt;
+>>> 
+  my name is mac yeah just call mac
+  age 15 ~ 17 yrs(guess it)&lt;br&gt;
+  And Non binary
+  i always stand with neutrality
    </p>
   </blockquote>
   <hr/>
