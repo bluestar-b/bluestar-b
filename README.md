@@ -36,11 +36,21 @@
   exs;
   bash;
 }
+
+
 ```
+
+![](https://skillicons.dev/icons?i=ts,js,py,css,html,linuxl
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlameKung&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+
+
 
 
 ![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px&idleMessage=nothing+happened)
@@ -71,7 +81,7 @@ That's the pale blue dot image it just small dust in the universe
 
 **I hope you realize something.**
 
-image credit: NASA
+image credit: NASA/JPL
 
 
 
