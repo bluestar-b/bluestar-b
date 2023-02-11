@@ -40,7 +40,7 @@
 
 ```
 
-![](https://skillicons.dev/icons?i=ts,js,py,css,html,linuxl
+![](https://skillicons.dev/icons?i=ts,js,py,css,html,linux)
 
 
 
