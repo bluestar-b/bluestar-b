@@ -7,11 +7,15 @@
 
 
 > **my name is mac yeah just call mac**<br>
+---
 > age 15 ~ 17 yrs(guess it)<br>
+---
 > And Non binary <br>
-> Codeing follow my heart ❤️
+---
+> Codeing follow my heart ❤️<br>
+---
 > __i always stand with neutrality__<br>
-> ~~เอาเหอะ ก็แค่คนปกติที่อยากเป็นอิสระจากสังคม~~
+> ~~เอาเหอะ ก็แค่คนปกติที่อยากเป็นอิสระจากสังคม~~<br>
 ---
 
 
