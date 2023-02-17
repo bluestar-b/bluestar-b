@@ -10,7 +10,7 @@
 > age 15 ~ 17 yrs(guess it)<br>
 > And Non binary <br>
 > __i always stand with neutrality__<br>
-
+> ~~เอาเหอะ ก็แค่คนปกติที่อยากเป็นอิสระจากสังคม~~
 ---
 
 
