@@ -15,8 +15,6 @@ And Non binary <br>
 Codeing follow my heart ❤️<br>
 
 __i always stand with neutrality__<br>
-
-~~เอาเหอะ ก็แค่คนปกติที่อยากเป็นอิสระจากสังคม~~<br>
 ---
 
 
