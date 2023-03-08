@@ -48,7 +48,7 @@ __i always stand with neutrality__<br>
 
 ```
 
-![](https://skillicons.dev/icons?i=ts,js,py,css,html,linux)
+![](https://skillicons.dev/icons?i=ts,js,py,css,html,css)
 
 
 
@@ -67,7 +67,7 @@ __i always stand with neutrality__<br>
 
 ## Latest Tweets
 
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ifeeling_2008&layout=wide)](https://twitter.com/Ifeeling_2008)
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Ifeeling_2008&layout=wide)](https://twitter.com/MeikouDev)
 
 
 
