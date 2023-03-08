@@ -48,7 +48,7 @@ __i always stand with neutrality__<br>
 
 ```
 
-![](https://skillicons.dev/icons?i=ts,js,py,css,html,css)
+![](https://skillicons.dev/icons?i=ts,js,py,css,html)
 
 
 
