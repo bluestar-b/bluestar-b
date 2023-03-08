@@ -12,7 +12,8 @@ age 15 ~ 17 yrs(guess it)<br>
 
 And Non binary <br>
 
-Codeing follow my heart ❤️<br>
+
+Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
 
 __i always stand with neutrality__<br>
 ---
