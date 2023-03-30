@@ -15,7 +15,6 @@ And Non binary <br>
 
 Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
 
-__i always stand with neutrality__<br>
 ---
 
 
@@ -51,6 +50,9 @@ __i always stand with neutrality__<br>
 ![](https://skillicons.dev/icons?i=ts,js,py,css,html)
 
 
+![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&idleMessage=nothing+happened)
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meikouuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -61,7 +63,6 @@ __i always stand with neutrality__<br>
 
 
 
-![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&bg=f7c1f3&borderRadius=35px&idleMessage=nothing+happened)
 
 
 
