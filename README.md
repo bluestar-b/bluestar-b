@@ -65,12 +65,6 @@ __i always stand with neutrality__<br>
 
 
 
-## Latest Tweets
-
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=MeikouDev&layout=wide)](https://twitter.com/MeikouDev)
-
-
-
 
 
 
