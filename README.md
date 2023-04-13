@@ -19,9 +19,22 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 
 
 
-### Tech stack
+# **Tech stack**
 
-![](https://skillicons.dev/icons?i=ts,js,py,css,html&theme=light)
+**Languages**<br>
+![](https://skillicons.dev/icons?i=ts,js,py,css,html&theme=dark)
+
+
+
+**Library/Framework**<br>
+![](https://skillicons.dev/icons?i=flask,vue&theme=dark)
+
+
+
+**Tools**<br>
+![](https://skillicons.dev/icons?i=git,nginx,vim&theme=dark)
+
+
 
 
 
