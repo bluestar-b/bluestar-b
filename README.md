@@ -21,7 +21,7 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 
 ### Tech stack
 
-![](https://skillicons.dev/icons?i=ts,js,py,css,go,html&theme=light)
+![](https://skillicons.dev/icons?i=ts,js,py,css,html&theme=light)
 
 
 
@@ -33,6 +33,8 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 
 
 ### GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=Meikouuu&show_icons=true&theme=jolly&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meikouuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
