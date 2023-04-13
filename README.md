@@ -41,7 +41,7 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 ---
 
 ### Discord status
-![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&idleMessage=??)
+![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&idleMessage=??&bg=93159e)
 
 
 
