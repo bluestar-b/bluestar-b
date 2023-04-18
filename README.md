@@ -6,8 +6,7 @@
 ## Mac/Phakon
 
 
-> **my name is mac yeah just call mac**<br>
-
+stop call me MacBook or bigmac please 
 
 
 Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
