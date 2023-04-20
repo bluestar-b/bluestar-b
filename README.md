@@ -1,12 +1,13 @@
 ### Hello
 ![](https://komarev.com/ghpvc/?username=Meikouuu&label=Sussy%20profile%20views&color=ff69b4&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&duration=6000&pause=100&color=FD57FF&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hello+I'm+Mac)]()
-
 ## Mac/Phakon
 
 
 stop call me MacBook or bigmac please 
+
+i love linux lmfao also i love ubuntu distro
+
 
 
 Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
