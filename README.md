@@ -1,5 +1,5 @@
 ### Hello
-![](https://komarev.com/ghpvc/?username=Meikouuu&label=Sussy%20profile%20views&color=ff69b4&style=flat)
+![](https://komarev.com/ghpvc/?username=Mayumi767&label=Sussy%20profile%20views&color=ff69b4&style=flat)
 
 ## Mac/Phakon
 
@@ -48,9 +48,9 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 
 
 ### GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=Meikouuu&show_icons=true&theme=jolly&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Mayumi767&show_icons=true&theme=jolly&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meikouuu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayumi767&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
