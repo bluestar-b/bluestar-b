@@ -21,7 +21,10 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 ```
 
 
-# **Tech stack**
+
+<details>
+
+<summary>Tech stack</summary>
 
 **Languages**<br>
 ![](https://skillicons.dev/icons?i=js,py,css,html&theme=dark)
@@ -37,28 +40,30 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 ![](https://skillicons.dev/icons?i=git,nginx,vim&theme=dark)
 
 
-
+</details>
 
 
 ---
 
-### Discord status
-![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&idleMessage=??&bg=93159e)
+
+<details>
+
+<summary>Github stats</summary>
 
 
-
-### GitHub stats
 ![](https://github-readme-stats.vercel.app/api?username=Mayumi767&show_icons=true&theme=jolly&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayumi767&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+</details>
 
 
 
 
 
 
+![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&idleMessage=??&bg=93159e)
 
 
 
