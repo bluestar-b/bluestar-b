@@ -4,21 +4,12 @@
 ## Mac/Phakon
 
 
-stop call me MacBook or bigmac please 
-
-i love linux lmfao also i love ubuntu distro
-
 
 
 Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
 
 ---
 
-
-```
-"This world has given you life because you are strong enough to live it."
-
-```
 
 
 
