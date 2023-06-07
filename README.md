@@ -22,8 +22,11 @@ Live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397
 
 
 
-**Library/Framework**<br>
-![](https://skillicons.dev/icons?i=flask,vue&theme=dark)
+**Library and Framework**<br>
+![](https://skillicons.dev/icons?i=vue,react&theme=dark)
+  
+  
+![](https://skillicons.dev/icons?i=flask&theme=dark)
 
 
 
