@@ -46,4 +46,4 @@ also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,10
 
 ---
 
-![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&bg=fdf0ff)
+![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&bg=3d223c)
