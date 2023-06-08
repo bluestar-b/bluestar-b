@@ -12,6 +12,14 @@ Originally I'm a space lover
 
 also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
 
+
+
+> "Somewhere, something incredible is waiting to be known." - Carl Sagan
+
+
+
+
+
 ---
 
 ## There's my stack
