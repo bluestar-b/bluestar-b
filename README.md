@@ -1,6 +1,6 @@
 # Hello
 
-![](https://komarev.com/ghpvc/?username=Mayumi767&label=Sussy%20profile%20views&color=ff69b4&style=flat)
+![](https://komarev.com/ghpvc/?username=Mayumi767&label=Profile%20views&color=ff69b4&style=flat)
 
 ```
 
