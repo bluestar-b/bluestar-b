@@ -36,6 +36,7 @@ also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,10
 
 ![](https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark)
 
+---
 - **GitHub status**
 
 ![](https://github-readme-stats.vercel.app/api?username=Mayumi767&show_icons=true&theme=jolly&count_private=true)
