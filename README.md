@@ -1,6 +1,6 @@
 # Hello
 
-![](https://komarev.com/ghpvc/?username=Mayumi767&label=Profile%20views&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=IamMac208&label=Profile%20views&color=ff69b4)
 
 ```
 
@@ -12,13 +12,7 @@ Originally I'm a space lover
 
 also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397)<br>
 
-
-
 > "Somewhere, something incredible is waiting to be known." - Carl Sagan
-
-
-
-
 
 ---
 
@@ -46,11 +40,11 @@ also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,10
 
 - **GitHub status**<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayumi767&show_icons=true&theme=jolly&count_private=true" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=IamMac208&show_icons=true&theme=jolly&count_private=true" /> 
 
 - **Most used languages** <small>(from repos)</small>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayumi767&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMac208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
 
@@ -58,4 +52,5 @@ also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,10
 
 ![](https://lanyard.cnrad.dev/api/829156179803504670?theme=dark&borderRadius=35px&bg=3d223c)
 
+  
   
