@@ -24,11 +24,10 @@ also i live at [thailand/lop buri](https://www.google.com/maps/place/14.79808,10
 
 **Library and Framework**
 
-> ![](https://skillicons.dev/icons?i=vue,react&theme=dark)
+> ![](https://skillicons.dev/icons?i=vue,react,flask&theme=dark)
 
-> ![](https://skillicons.dev/icons?i=flask&theme=dark)
 
-**Tools**<br />
+**Tools/IDE💀**<br />
 
 > ![](https://skillicons.dev/icons?i=git,nginx,vim,neovim,vite&theme=dark)
 
