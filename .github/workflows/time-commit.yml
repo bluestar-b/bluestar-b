@@ -1,8 +1,8 @@
-name: Hourly Commit
+name: Time
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/8 * * * *'
 
 jobs:
   build:
@@ -14,8 +14,8 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "Robo"
+          git config --global user.email "null@null.com"
 
       - name: Create time.txt
         run: echo $(date +"%Y-%m-%d %H:%M:%S") > time.txt
