@@ -1,10 +1,10 @@
-name: Hourly Commit
+name: Time Commit
 
 on:
 
   schedule:
 
-    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
 
