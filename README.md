@@ -38,6 +38,17 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 ---
 
 ## My sucks stack
+
+
+
+
+<h2>Languages</h2>
+  <br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
+
+
+
 <h2>Library and Framework</h2>
   <br/>
   <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js"></a>
