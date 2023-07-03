@@ -39,22 +39,24 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 ## My sucks stack
 
-**Languages**<br />
+**Languages**
+![https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![https://www.python.org/](https://skillicons.dev/icons?i=py&theme=dark)
 
-> ![](https://skillicons.dev/icons?i=js,py,css,html&theme=dark)<br />
 
 **Library and Framework**
 
-> ![](https://skillicons.dev/icons?i=vue,react,flask&theme=dark)
+![https://vuejs.org](https://skillicons.dev/icons?i=vue&theme=dark) ![https://reactjs.org](https://skillicons.dev/icons?i=react&theme=dark) ![https://flask.palletsprojects.com/](https://skillicons.dev/icons?i=flask&theme=dark)
+
+**Tools/IDE☠️**
+
+![https://git-scm.com/](https://skillicons.dev/icons?i=git&theme=dark) ![https://nginx.org/](https://skillicons.dev/icons?i=nginx&theme=dark) ![https://www.vim.org/](https://skillicons.dev/icons?i=vim&theme=dark) ![https://neovim.io/](https://skillicons.dev/icons?i=neovim&theme=dark) ![https://vitejs.dev/](https://skillicons.dev/icons?i=vite&theme=dark)
+
+**Database**
+
+![https://www.sqlite.org/](https://skillicons.dev/icons?i=sqlite&theme=dark) ![https://www.postgresql.org/](https://skillicons.dev/icons?i=postgres&theme=dark) ![https://redis.io/](https://skillicons.dev/icons?i=redis&theme=dark)
 
 
-**Tools/IDE💀**<br />
 
-> ![](https://skillicons.dev/icons?i=git,nginx,vim,neovim,vite&theme=dark)
-
-**Database**<br />
-
-> ![](https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark)
 
 
 ~~Please note that I am not telling all.~~
