@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=IamMac208&label=Profile%20views&color=ff69b4)
 
-Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397), And I code sometimes 
+Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.79808,100.65397), and I ~~code~~ **gay** sometimes 
 
 
 
