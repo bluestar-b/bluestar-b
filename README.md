@@ -9,11 +9,24 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 > "Somewhere, something incredible is waiting to be known." - Carl Sagan
 
 ---
 
-## There's my stack
+## My sucks stack
 
 **Languages**<br />
 
@@ -32,11 +45,9 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 > ![](https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark)
 
+
+*Please note that I am not telling all.*
 ---
-
-- **GitHub status**<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=IamMac208&show_icons=true&theme=jolly&count_private=true" /> 
 
 - **Most used languages** <small>(from repos)</small>
 
