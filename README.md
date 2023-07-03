@@ -38,24 +38,25 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 ---
 
 ## My sucks stack
+<h2>Library and Framework</h2>
+  <br/>
+  <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js"></a>
+  <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"></a>
 
-**Languages**<br/>
-![https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![https://www.python.org/](https://skillicons.dev/icons?i=py&theme=dark)
+  <h2>Tools/IDE☠️</h2>
+  <br/>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx"></a>
+  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim"></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim"></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite"></a>
 
-
-**Library and Framework**<br/>
-
-![https://vuejs.org](https://skillicons.dev/icons?i=vue&theme=dark) ![https://reactjs.org](https://skillicons.dev/icons?i=react&theme=dark) ![https://flask.palletsprojects.com/](https://skillicons.dev/icons?i=flask&theme=dark)
-
-**Tools/IDE☠️**
-
-![https://git-scm.com/](https://skillicons.dev/icons?i=git&theme=dark) ![https://nginx.org/](https://skillicons.dev/icons?i=nginx&theme=dark) ![https://www.vim.org/](https://skillicons.dev/icons?i=vim&theme=dark) ![https://neovim.io/](https://skillicons.dev/icons?i=neovim&theme=dark) ![https://vitejs.dev/](https://skillicons.dev/icons?i=vite&theme=dark)
-
-**Database**<br/>
-
-![https://www.sqlite.org/](https://skillicons.dev/icons?i=sqlite&theme=dark) ![https://www.postgresql.org/](https://skillicons.dev/icons?i=postgres&theme=dark) ![https://redis.io/](https://skillicons.dev/icons?i=redis&theme=dark)
-
-
+  <h2>Database</h2>
+  <br/>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"></a>
 
 
 
