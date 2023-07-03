@@ -12,15 +12,23 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 
 
+> #### <ll>Timeline:</ll>
+
+```
+- Someday on 2020: WTF is computer programming???
+- Late 2020: no way, i understand about it...
+- Early 2021: still curious about it
+- Mid 2021: started some line of python code
+- Late 2021: came so far with that, i can't go back and I loved it
+- Early 2022: Let's do more things and learn more
+- Mid: 2022: Ah yeah goes far again learning javascript(web development)
+- Early 2023: It's time for non-formal education(so good)
+
+```
 
 
 
-
-
-
-
-
-
+---
 
 
 
