@@ -39,11 +39,11 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 ## My sucks stack
 
-**Languages**
+**Languages**<br/>
 ![https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![https://www.python.org/](https://skillicons.dev/icons?i=py&theme=dark)
 
 
-**Library and Framework**
+**Library and Framework**<br/>
 
 ![https://vuejs.org](https://skillicons.dev/icons?i=vue&theme=dark) ![https://reactjs.org](https://skillicons.dev/icons?i=react&theme=dark) ![https://flask.palletsprojects.com/](https://skillicons.dev/icons?i=flask&theme=dark)
 
@@ -51,7 +51,7 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 
 ![https://git-scm.com/](https://skillicons.dev/icons?i=git&theme=dark) ![https://nginx.org/](https://skillicons.dev/icons?i=nginx&theme=dark) ![https://www.vim.org/](https://skillicons.dev/icons?i=vim&theme=dark) ![https://neovim.io/](https://skillicons.dev/icons?i=neovim&theme=dark) ![https://vitejs.dev/](https://skillicons.dev/icons?i=vite&theme=dark)
 
-**Database**
+**Database**<br/>
 
 ![https://www.sqlite.org/](https://skillicons.dev/icons?i=sqlite&theme=dark) ![https://www.postgresql.org/](https://skillicons.dev/icons?i=postgres&theme=dark) ![https://redis.io/](https://skillicons.dev/icons?i=redis&theme=dark)
 
