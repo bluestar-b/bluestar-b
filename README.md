@@ -46,7 +46,8 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 > ![](https://skillicons.dev/icons?i=sqlite,postgres,redis&theme=dark)
 
 
-*Please note that I am not telling all.*
+~~Please note that I am not telling all.~~
+
 ---
 
 - **Most used languages** <small>(from repos)</small>
