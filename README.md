@@ -41,7 +41,7 @@ Hello I'm mac from [thailand/lop buri](https://www.google.com/maps/place/14.7980
 <h2>Library and Framework</h2>
   <br/>
   <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js"></a>
-  <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"></a>
 
   <h2>Tools/IDE☠️</h2>
