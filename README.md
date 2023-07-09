@@ -9,6 +9,12 @@ im from thailand and my name is mac... that's it.
 > *"Somewhere, something incredible is waiting to be known."* - Carl Sagan
 
 ---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azuremist208&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuremist208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+---
+
 
 ## stuff that I've used
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
@@ -24,9 +30,5 @@ im from thailand and my name is mac... that's it.
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"></a>
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"></a>
 
----
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuremist208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
