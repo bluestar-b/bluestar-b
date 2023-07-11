@@ -16,7 +16,9 @@ im from thailand and my name is mac... that's it.
 
 ## stuff that I've used
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css"></a><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="html"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
 
 
 
