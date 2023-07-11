@@ -16,9 +16,14 @@ im from thailand and my name is mac... that's it.
 
 ## stuff that I've used
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css"></a><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"></a>
 
-  <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js"></a>
+
+
+
+
+
+<a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js"></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"></a>
   <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim"></a>
