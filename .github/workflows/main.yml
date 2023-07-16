@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0 */48 * * *"
+    - cron: */5 0 * * *
 
 jobs:
   publish:
