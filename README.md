@@ -7,7 +7,18 @@ im from thailand and my name is mac... that's it.
 
 ### my favourite quote
 > *"Somewhere, something incredible is waiting to be known."* - Carl Sagan
+---
 
+
+```
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+* ⬆️ Pushed 1 commit to azuremist208/azuremist208
+```
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuremist208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50" />
