@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>sus</title>
+</head>
+
+<body>
+    <div id="color-code-display">Color code: #000000</div>
+
+    <form>
+        <input type="number" id="speed" placeholder="Input speed here i.e. 20" />
+        <input type="range" id="minbright">
+
+    </form>
+
+    <script>
+        const colorCodeDisplay = document.getElementById('color-code-display');
+        const speedInput = document.getElementById('speed');
+        const minBrightInput = document.getElementById('minbright');
+        let isIntervalRunning = false;
+        let intervalId;
+        let minBright;
+
+        minBrightInput.addEventListener('input', function() {
+            minBright = this.value;
+        });
+
+        speedInput.addEventListener('input', function() {
+            const speed = this.value;
+
+            if (!isIntervalRunning) {
+                clearInterval(intervalId);
+                intervalId = setInterval(updateBackgroundColor, speed);
+                isIntervalRunning = true;
+            }
+        });
+
+        function getRandomLightColor(minBrightness) {
+            const red = Math.floor(Math.random() * (255 - minBrightness) + minBrightness);
+            const green = Math.floor(Math.random() * (255 - minBrightness) + minBrightness);
+            const blue = Math.floor(Math.random() * (255 - minBrightness) + minBrightness);
+
+            return `rgb(${red}, ${green}, ${blue})`;
+        }
+
+        function updateBackgroundColor() {
+            const randomColor = getRandomLightColor(minBright);
+
+            document.body.style.backgroundColor = randomColor;
+            colorCodeDisplay.textContent = `Color code: ${randomColor}`;
+        }
+    </script>
+</body>
+
+	</html>
