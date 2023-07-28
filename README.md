@@ -1,17 +1,13 @@
-
-
-i'm from thailand and my name is mac...
-
-
-
-
-### my favourite quote
-> *"Somewhere, something incredible is waiting to be known."* - Carl Sagan
----
+Let's see what this guy do...
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuremist208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50" />
 
+
 ---
+
+<!--
+---
+
 
 ## stuff that I've used
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"></a>
@@ -37,3 +33,4 @@ i'm from thailand and my name is mac...
 
 
 ---
+-->
