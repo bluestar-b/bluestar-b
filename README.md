@@ -6,7 +6,7 @@ Let's see what this guy do...
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsbluestar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuremist208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbluestar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50" />
 
 
 ---
