@@ -1,5 +1,6 @@
 <samp>
-Technical and society questions are welcome. 
+my destination: 4.65 x 10^20 km
+me rn: 40km
 <samp>
   
   
