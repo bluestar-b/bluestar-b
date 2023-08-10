@@ -1,6 +1,8 @@
 <samp>
 my destination: 4.65 x 10^20 km<br />
 me rn: 40km
+
+note: behind is shit storage
 <samp>
   
   
