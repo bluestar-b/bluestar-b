@@ -3,3 +3,9 @@
   <b>Bangsaen Beach</b> - Photo by me(mac)</blockquote>
 
 
+
+
+
+<b>What in my head</b><br/>
+<samp>"Those moments disappear over time."</samp>
+
