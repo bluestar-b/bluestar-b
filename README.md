@@ -6,6 +6,4 @@
 
 
 
-<b>What in my head</b><br/>
-<samp>"Those moments disappear over time."</samp>
 
