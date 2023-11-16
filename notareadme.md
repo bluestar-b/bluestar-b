@@ -1,14 +1,13 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-jpeg&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=30&border_radius=8" />
 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsobluestar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50&border_color=000&border_radius=8" />
 
   <!--
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alsobluestar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bluestar-jpeg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-jpeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50&border_color=000&border_radius=8" />
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=alsobluestar&langs_count=60&theme=tokyonight&border_color=000&border_radius=10&layout=compact
 
