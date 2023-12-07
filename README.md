@@ -1,6 +1,4 @@
-no readme for you :v
-
-
+ life will teach you how to get through it.
 <!--
 <img src="./IMG_20230826_094444-01.jpeg"/>
 <blockquote>
