@@ -1,4 +1,4 @@
-I random it
+You should love yourself NOW!
 
 <!--
 
