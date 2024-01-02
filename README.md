@@ -1,4 +1,4 @@
-Yeah that's it i do nosense things
+That's it I do nosense things using these shits:
 
 <!--
 
