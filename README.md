@@ -1,4 +1,5 @@
 That's it I do nosense things using these shits:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-dev&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=40&border_radius=8" />
 
 <!--
 
