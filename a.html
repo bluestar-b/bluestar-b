@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>null</title>
+</head>
+
+<body>
+  <p>
+    Enter something
+    <input type="text" id="inputText">
+    <button onclick="encodeOrDecode()">click!</button>
+  </p>
+  <p><span id="result"></span></p>
+
+  <script>
+    const CHARS = "๐๑๒๓๔๕๖๗๘๙กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮ!#$%&()*+,-./:;<=>?@[]^`{|}฿";
+
+    function encode(data) {
+      if (typeof data === 'string') {
+        data = new TextEncoder().encode(data);
+      } else if (!(data instanceof Uint8Array)) {
+        return null;
+      }
+
+      let result = '';
+      let value = 0;
+      let bits = 0;
+      for (let b of data) {
+        value = (value << 8) | b;
+        bits += 8;
+        while (bits >= 6) {
+          bits -= 6;
+          let index = (value >> bits) & 0x3f;
+          result += CHARS[index];
+        }
+      }
+      if (bits > 0) {
+        let index = (value << (6 - bits)) & 0x3f;
+        result += CHARS[index];
+      }
+
+      return result;
+    }
+
+    function decode(data) {
+      if (typeof data === 'string') {
+        data = new TextDecoder().decode(new TextEncoder().encode(data));
+      } else if (!(typeof data === 'string')) {
+        return null;
+      }
+      let result = new Uint8Array();
+      let value = 0;
+      let bits = 0;
+      for (let c of data) {
+        let index = CHARS.indexOf(c);
+        if (index < 0) {
+          return null;
+        }
+        value = (value << 6) | index;
+        bits += 6;
+        if (bits >= 8) {
+          bits -= 8;
+          result = appendBytes(result, (value >> bits) & 0xff);
+        }
+      }
+
+      return new TextDecoder().decode(result);
+    }
+
+    function appendBytes(bytes, byte) {
+      let newBytes = new Uint8Array(bytes.length + 1);
+      newBytes.set(bytes);
+      newBytes[newBytes.length - 1] = byte;
+      return newBytes;
+    }
+
+    function encodeOrDecode() {
+      const input = document.getElementById('inputText').value;
+      const resultSpan = document.getElementById('result');
+      const encoded = encode(input);
+      if (encoded !== null) {
+        resultSpan.innerText = encoded + '\n' + decode(encoded);
+      } else {
+        resultSpan.innerText = 'Invalid input';
+      }
+    }
+  </script>
+</body>
+
+</html>
