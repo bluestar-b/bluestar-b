@@ -4,6 +4,8 @@
 <pre>
 📍 I live in Thailand
 💽 I learning about web development and networking
+📝 I am studying in non-formal education.
+
 </pre>
 
 > Something
