@@ -5,7 +5,7 @@
 📍 I live in Thailand
 💽 I learning about web development and networking
 📝 I am studying in non-formal education.
-
+🍰 Joined the world since April 3rd 2008
 </pre>
 
 > Something
