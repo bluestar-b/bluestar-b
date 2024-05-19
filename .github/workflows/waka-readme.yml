@@ -19,4 +19,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
+          SHOW_LINES_OF_CODE: "True"
           
