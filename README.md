@@ -14,4 +14,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
+
+```txt
+Python            1 hr 15 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+JavaScript        49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+HTML              45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+CSS               26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Prisma            20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+```
+
 <!--END_SECTION:waka-->
