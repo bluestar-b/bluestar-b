@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
@@ -84,5 +84,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 17:47:05 UTC
+ Last Updated on 21/05/2024 17:49:09 UTC
 <!--END_SECTION:waka-->
