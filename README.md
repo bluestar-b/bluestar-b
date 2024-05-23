@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
@@ -60,11 +60,11 @@ Sunday                   531 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-HTML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Prisma                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.89 % 
+HTML                     1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+JavaScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+CSS                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +84,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 17:00:35 UTC
+ Last Updated on 23/05/2024 17:02:44 UTC
 <!--END_SECTION:waka-->
