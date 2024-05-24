@@ -25,8 +25,6 @@
 
 > 📦 726.9 kB Used in GitHub's Storage 
  > 
-> 🏆 403 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 59 Public Repositories 
@@ -84,5 +82,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 07:04:12 UTC
+ Last Updated on 24/05/2024 07:06:43 UTC
 <!--END_SECTION:waka-->
