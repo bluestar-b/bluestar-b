@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 727.6 kB Used in GitHub's Storage 
+> 📦 727.5 kB Used in GitHub's Storage 
  > 
 > 🏆 403 Contributions in the Year 2024
  > 
@@ -84,5 +84,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 04:47:14 UTC
+ Last Updated on 29/05/2024 04:49:17 UTC
 <!--END_SECTION:waka-->
