@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
@@ -24,8 +24,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 727.7 kB Used in GitHub's Storage 
- > 
-> 🏆 403 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,5 +82,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 07:56:59 UTC
+ Last Updated on 30/05/2024 07:59:27 UTC
 <!--END_SECTION:waka-->
