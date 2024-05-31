@@ -3,7 +3,7 @@ permissions: write-all
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 12 * * *'
   push:
 
 
@@ -20,4 +20,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
           SHOW_LINES_OF_CODE: "True"
-          
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
