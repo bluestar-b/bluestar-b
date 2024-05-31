@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2056%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,13 +31,13 @@
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                526 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                800 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                727 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌙 Night                  499 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌞 Morning                17 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+🌆 Daytime                21 commits          ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+🌃 Evening                36 commits          ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 ```
 
 
@@ -71,5 +71,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 05:07:34 UTC
+ Last Updated on 31/05/2024 05:08:32 UTC
 <!--END_SECTION:waka-->
