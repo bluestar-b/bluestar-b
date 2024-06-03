@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
 
@@ -47,11 +47,11 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               7 hrs 11 mins       ██████████████░░░░░░░░░░░   56.11 % 
-HTML                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+JavaScript               7 hrs 29 mins       ██████████████░░░░░░░░░░░   56.11 % 
+HTML                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Markdown                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +71,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 13:10:09 UTC
+ Last Updated on 03/06/2024 12:31:14 UTC
 <!--END_SECTION:waka-->
