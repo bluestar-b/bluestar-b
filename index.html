@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>:3</title>
+
+  <style>
+    body {
+      font-family: monospace;
+      background-color: #C86AC6;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      min-height: 100vh;
+    }
+
+    #message {
+      font-size: 2rem;
+      color: #E8E6FF;
+      font-weight: bold;
+    }
+
+    #sub {
+      color: #E8E6FF;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root">
+    <div id="message"></div>
+    <div id="sub"></div>
+    <audio id="audio" src="soundtrack.mp3"></audio>
+  </div>
+
+  <script>
+    let ipData = {};
+
+    async function fetchData() {
+      try {
+        const response = await fetch('https://ipapi.co/json/');
+        if (!response.ok) {
+          throw new Error('Failed to fetch data');
+        }
+        ipData = await response.json();
+        console.log('Fetched data:', ipData);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    }
+
+    let messages = [
+      { text: "I have your IP >3", sub: "", delay: 1300 },
+      { text: "Your home address too :3", sub: "", delay: 1340 },
+      { text: "Your government files say a lot about you <3", sub: "", delay: 1700 }
+      
+    ];
+
+    fetchData().then(() => {
+      console.log('IP Address:', ipData.ip);
+      console.log('Country:', ipData.country_name);
+      messages[0].sub = ipData.ip + "\n" + ipData.org + "\n" + ipData.asn + "\n" + ipData.network
+      messages[1].sub = `${ipData.latitude}, ${ipData.longitude}, ` + ipData.country_name + ", " + ipData.city;
+
+    });
+
+    function displayMessage(index) {
+      if (index < messages.length) {
+        const messageElement = document.getElementById('message');
+        const subElement = document.getElementById('sub');
+
+        messageElement.textContent = messages[index].text;
+        subElement.textContent = messages[index].sub || ""
+
+        setTimeout(() => {
+          setTimeout(() => {
+            displayMessage(index + 1);
+          }, 500); // Delay the next message after the animation completes
+        }, messages[index].delay);
+        const audio = document.getElementById('audio');
+        audio.play()
+      } else {
+        console.log("seq done")
+      }
+    }
+
+    function countdown(seconds) {
+      let count = seconds;
+      const countdownInterval = setInterval(() => {
+        document.getElementById('message').textContent = count.toString();
+        count--;
+        if (count < 0) {
+          clearInterval(countdownInterval);
+          displayMessage(0); // Start displaying lyrics along with the song
+        }
+      }, 1000);
+    }
+
+    countdown(3);
+  </script>
+</body>
+
+</html>
