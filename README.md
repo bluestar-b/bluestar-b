@@ -15,15 +15,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-935%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 728.0 kB Used in GitHub's Storage 
- > 
-> 🏆 416 Contributions in the Year 2024
+> 📦 728.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,13 +29,13 @@
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-🌃 Evening                16 commits          ███████████████░░░░░░░░░░   61.54 % 
-🌙 Night                  8 commits           ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌞 Morning                505 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌆 Daytime                763 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌃 Evening                708 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌙 Night                  477 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 ```
 
 
@@ -47,11 +45,11 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
-Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-HTML                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JavaScript               7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.02 % 
+Python                   5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+HTML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,5 +69,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 13:12:35 UTC
+ Last Updated on 05/06/2024 12:30:14 UTC
 <!--END_SECTION:waka-->
