@@ -12,7 +12,7 @@
 > Something
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bluestar-b&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" width="90000%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluestar-b&theme=tokyonight&include_all_commits=true&layout=compact&langs_count=10&border_radius=8" width="90000px"/>
 
 
 
