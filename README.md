@@ -73,3 +73,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
  Last Updated on 07/06/2024 13:09:05 UTC
 <!--END_SECTION:waka-->
+
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/bluestar-b/bluestar-b/main/nerd.png');]{x0000}$}
