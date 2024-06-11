@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+
+<style>
+  body {
+    font-family: monospace;
+    height: 100vh;
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+  #container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  #search-bar {
+    font-size: 1rem;
+    width: 80%;
+    border-radius: 8px;
+    font-family: monospace;
+    outline: 1px solid transparent;
+    background-color: transparent;
+    padding: 0.6rem;
+    border-color: #FFFFFF;
+    font-weight: bold;
+    color: #FFFFFF;
+  }
+
+  #weather-temp {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  #weather-city {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+
+  #message {
+    text-align: center;
+    max-width: 20rem;
+    margin-bottom: 8%;
+    font-weight: 500;
+  }
+
+  #wind {
+    text-align: center;
+    max-width: 24rem;
+    margin-bottom: 8%;
+    font-weight: bold;
+    font-size: 0.75rem;
+  }
+
+
+
+
+  #links {
+    padding: 1rem;
+  }
+
+  .link-text {
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-left: 0.75rem;
+
+  }
+</style>
+
+<body>
+
+  <div id="container">
+    <div id="weather-city">Something</div>
+    <div id="weather-temp">Going</div>
+    <div id="wind">Somewhere</div>
+    <div id="message">
+
+    </div>
+    <input type="text" name="" id="search-bar" placeholder="Search Google..." />
+
+
+    <div id="links">
+      <!--
+      <span class="link-text">Discord</span>
+      <span class="link-text">Gmail</span>
+-->
+    </div>
+  </div>
+  <script>
+    const url = 'https://api.openweathermap.org/data/2.5/weather?q=lopburi&appid=ab1f72a7d522662ead5ab3202a629dce&units=metric';
+
+    fetch(url)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then(data => {
+        console.log(data);
+        document.getElementById("weather-temp").innerHTML = `${data.main.feels_like}°C`
+        document.getElementById("weather-city").innerText = `${data.name}, ${data.sys.country}`
+        const sunriseTime = new Date(data.sys.sunrise * 1000);
+        document.getElementById("wind").innerHTML = `Wind speed ${data.wind.speed} m/s from ${getWindDirection(data.wind.deg)}`
+      })
+      .catch(error => {
+        console.error('There was a problem with your fetch operation:', error);
+      });
+    document.getElementById('search-bar').addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        var searchBarValue = this.value;
+        var searchQuery = encodeURIComponent(searchBarValue);
+        window.location.href = 'https://www.google.com/search?q=' + searchQuery;
+      }
+    });
+    
+    function getWindDirection(angle) {
+      let directions = ["North", "North-Northeast", "Northeast", "East-Northeast", "East", "East-Southeast", "Southeast", "South-Southeast", "South", "South-Southwest", "Southwest", "West-Southwest", "West", "West-Northwest", "Northwest", "North-Northwest"];
+      let section = parseInt(angle / 22.5 + 0.5);
+      section = section % 16;
+      return directions[section];
+    }
+
+
+  </script>
+</body>
+
+</html>
