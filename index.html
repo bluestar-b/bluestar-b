@@ -4,52 +4,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-</head>
+  <title>&lt;333</title>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="f35cf100-849d-487c-a467-5e9af71e2d39"></script>
+  <style>
+    main {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 1rem;
+    }
 
-<style>
-  body {
-    font-family: monospace;
-    color: rgba(0, 7, 40, 1);
-  }
+    h1 {
+      font-size: 2.25rem;
+      font-weight: bolder;
+      text-shadow: 1px 1px 0px rgba(255, 207, 207, 1);
+    }
 
-  main {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-  }
+    p {
+      font-size: 0.8rem;
+      font-weight: bold;
+      word-wrap: break-word;
+    }
 
-  h1 {
-    font-size: 2.25rem;
-    font-weight: bolder;
-  }
+    div#hello {
+      max-width: 32rem;
 
-  p {
-    font-size: 0.8rem;
-    font-weight: bold;
-    word-wrap: break-word;
-  }
+    }
 
-  div#hello {
-    max-width: 32rem;
+    :root {
+      --background-color: #ffddde;
+      --text-color: #010101;
+      --link-color: #B73A73;
+      --selection-text-color: white;
+      --selection-bg-color: black;
+    }
 
-  }
+    a {
+      color: var(--link-color);
+      text-decoration: none;
 
-</style>
+      outline: none;
+      -webkit-tap-highlight-color: transparent;
+
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+
+    body {
+      font-family: monospace;
+      background-color: var(--background-color);
+      color: var(--text-color);
+    }
+
+    .dark-theme {
+      --background-color: #010101;
+      --text-color: #ffddde;
+      --link-color: #FF73C5;
+
+      --selection-text-color: black;
+      --selection-bg-color: white;
+    }
+
+    color: var(--selection-text-color);
+    background: var(--selection-bg-color);
+    }
+
+    ::selection {
+      color: var(--selection-text-color);
+      background: var(--selection-bg-color);
+
+    }
+  </style>
 
 <body>
-  <main>
-    <h1>Hello :3!</h1>
+  <main class="container">
+    <h1 id="theme-toggle">Hello :3!</h1>
     <div id="hello">
-      <p>I'm Mac from Thailand. I was born on April 3, 2008. I mostly do random things like programming, cycling, and even space nerding, among other things!</p>
+      <p>I'm Mac from Thailand. I was born on April 3, 2008. I mostly do random things like programming, cycling, and even space nerding, among other things!
+        <br />
+        And you can reach me at <a href="https://discord.com/users/829156179803504670" target="_blank">Discord</a>
+        <br />
+        And you can see the songs I like <a href="https://open.spotify.com/playlist/5xnLKLFqpVHfywWrDkVME3?si=Vx5PIQFFTO2MKIQfq_F4Rw&pi=a-ir-rs-82TMOH)." target="_blank">Here</a>
+      </p>
 
     </div>
 
   </main>
 
+
+
+  <script>
+    const body = document.body;
+    body.classList.add(localStorage.getItem("theme") || "dark-theme");
+    document.getElementById("theme-toggle").onclick = () => {
+      body.classList.toggle("dark-theme");
+      localStorage.setItem("theme", body.classList.contains("dark-theme") ? "dark-theme" : "light-theme");
+    };
+  </script>
 </body>
 
 </html>
