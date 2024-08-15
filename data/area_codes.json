@@ -1,0 +1,197 @@
+[
+  {
+    "area_code": "02",
+    "areas_served": [
+      "Bangkok (Krung Thep Maha Nakhon)",
+      "Nonthaburi",
+      "Pathum Thani",
+      "Samut Prakan",
+      "Phutthamonthon (Nakhon Pathom)"
+    ]
+  },
+  {
+    "area_code": "032",
+    "areas_served": [
+      "Phetchaburi",
+      "Prachuap Khiri Khan",
+      "Ratchaburi"
+    ]
+  },
+  {
+    "area_code": "034",
+    "areas_served": [
+      "Kanchanaburi",
+      "Nakhon Pathom (except Phutthamonthon)",
+      "Samut Sakhon",
+      "Samut Songkhram"
+    ]
+  },
+  {
+    "area_code": "035",
+    "areas_served": [
+      "Ang Thong",
+      "Phra Nakhon Si Ayutthaya",
+      "Suphan Buri"
+    ]
+  },
+  {
+    "area_code": "036",
+    "areas_served": [
+      "Lop Buri",
+      "Saraburi",
+      "Sing Buri"
+    ]
+  },
+  {
+    "area_code": "037",
+    "areas_served": [
+      "Nakhon Nayok",
+      "Prachin Buri",
+      "Sa Kaeo"
+    ]
+  },
+  {
+    "area_code": "038",
+    "areas_served": [
+      "Chachoengsao",
+      "Chon Buri",
+      "Rayong"
+    ]
+  },
+  {
+    "area_code": "039",
+    "areas_served": [
+      "Chanthaburi",
+      "Trat"
+    ]
+  },
+  {
+    "area_code": "042",
+    "areas_served": [
+      "Bueng Kan",
+      "Loei",
+      "Mukdahan",
+      "Nakhon Phanom",
+      "Nong Bua Lamphu",
+      "Nong Khai",
+      "Sakon Nakhon",
+      "Udon Thani"
+    ]
+  },
+  {
+    "area_code": "043",
+    "areas_served": [
+      "Kalasin",
+      "Khon Kaen",
+      "Maha Sarakham",
+      "Roi Et",
+      "Nam Nao (Phetchabun)"
+    ]
+  },
+  {
+    "area_code": "044",
+    "areas_served": [
+      "Buri Ram",
+      "Chaiyaphum",
+      "Nakhon Ratchasima",
+      "Surin"
+    ]
+  },
+  {
+    "area_code": "045",
+    "areas_served": [
+      "Amnat Charoen",
+      "Si Sa Ket",
+      "Ubon Ratchathani",
+      "Yasothon"
+    ]
+  },
+  {
+    "area_code": "052",
+    "areas_served": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Lamphun",
+      "Mae Hong Son"
+    ]
+  },
+  {
+    "area_code": "053",
+    "areas_served": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Lamphun",
+      "Mae Hong Son"
+    ]
+  },
+  {
+    "area_code": "054",
+    "areas_served": [
+      "Lampang",
+      "Nan",
+      "Phayao",
+      "Phrae"
+    ]
+  },
+  {
+    "area_code": "055",
+    "areas_served": [
+      "Kamphaeng Phet",
+      "Phitsanulok",
+      "Sukhothai",
+      "Tak",
+      "Uttaradit",
+      "Sam Ngam",
+      "Wachirabarami (Phichit)"
+    ]
+  },
+  {
+    "area_code": "056",
+    "areas_served": [
+      "Chai Nat",
+      "Nakhon Sawan",
+      "Phetchabun (except Nam Nao)",
+      "Phichit (except Sam Ngam & Wachirabarami)",
+      "Uthai Thani"
+    ]
+  },
+  {
+    "area_code": "073",
+    "areas_served": [
+      "Narathiwat",
+      "Pattani",
+      "Yala"
+    ]
+  },
+  {
+    "area_code": "074",
+    "areas_served": [
+      "Phatthalung",
+      "Satun",
+      "Songkhla"
+    ]
+  },
+  {
+    "area_code": "075",
+    "areas_served": [
+      "Krabi",
+      "Nakhon Si Thammarat",
+      "Trang"
+    ]
+  },
+  {
+    "area_code": "076",
+    "areas_served": [
+      "Phang Nga",
+      "Phuket"
+    ]
+  },
+  {
+    "area_code": "077",
+    "areas_served": [
+      "Chumphon",
+      "Ranong",
+      "Surat Thani"
+    ]
+  }
+]
