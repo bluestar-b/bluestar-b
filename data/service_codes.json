@@ -1,0 +1,175 @@
+[
+  {
+    "code": "060",
+    "service": "TrueMove (VoIP)"
+  },
+  {
+    "code": "061",
+    "service": "AIS"
+  },
+  {
+    "code": "062",
+    "service": "AIS"
+  },
+  {
+    "code": "063",
+    "service": "AIS"
+  },
+  {
+    "code": "064",
+    "service": "TRUE"
+  },
+  {
+    "code": "065",
+    "service": "AIS"
+  },
+  {
+    "code": "066",
+    "service": "DTAC"
+  },
+  {
+    "code": "068",
+    "service": "TOT (VoIP)"
+  },
+  {
+    "code": "080-0 to 080-2",
+    "service": "AIS"
+  },
+  {
+    "code": "080-3",
+    "service": "TrueMove"
+  },
+  {
+    "code": "080-4 to 080-5",
+    "service": "DTAC"
+  },
+  {
+    "code": "080-6",
+    "service": "AIS"
+  },
+  {
+    "code": "081-0 to 081-2",
+    "service": "AIS"
+  },
+  {
+    "code": "081-3 to 081-6",
+    "service": "DTAC"
+  },
+  {
+    "code": "081-7 to 081-9",
+    "service": "AIS"
+  },
+  {
+    "code": "082",
+    "service": "AIS"
+  },
+  {
+    "code": "083",
+    "service": "TrueMove"
+  },
+  {
+    "code": "084",
+    "service": "AIS"
+  },
+  {
+    "code": "085",
+    "service": "DTAC"
+  },
+  {
+    "code": "085-4",
+    "service": "AIS"
+  },
+  {
+    "code": "086",
+    "service": "TrueMove"
+  },
+  {
+    "code": "087",
+    "service": "AIS"
+  },
+  {
+    "code": "088",
+    "service": "TrueMove"
+  },
+  {
+    "code": "089",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "090",
+    "service": "DTAC"
+  },
+  {
+    "code": "090-1",
+    "service": "AIS"
+  },
+  {
+    "code": "090-9",
+    "service": "True Move H, AIS"
+  },
+  {
+    "code": "091",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "092",
+    "service": "AIS"
+  },
+  {
+    "code": "093",
+    "service": "AIS, TrueMove H"
+  },
+  {
+    "code": "093-1",
+    "service": "AIS"
+  },
+  {
+    "code": "093-5",
+    "service": "AIS"
+  },
+  {
+    "code": "093-6",
+    "service": "AIS"
+  },
+  {
+    "code": "094",
+    "service": "DTAC, TrueMove H"
+  },
+  {
+    "code": "094-0 to 094-1",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "094-22 to 094-23",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "095",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "095-6",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "096",
+    "service": "TrueMove H"
+  },
+  {
+    "code": "097",
+    "service": "AIS, TrueMove H"
+  },
+  {
+    "code": "098",
+    "service": "AIS"
+  },
+  {
+    "code": "099",
+    "service": "AIS, TrueMove H"
+  },
+  {
+    "code": "099-5",
+    "service": "TrueMove H"
+  }
+]
+
