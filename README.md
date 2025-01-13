@@ -1,5 +1,4 @@
-<h1>hai</h1>
+my name is mac and i exist  
 
-<pre>
-mac from thailand that's it
-</pre>
+<pre>i can write hello world in c, cpp, js, python, zig, golang 👀  
+for frameworks and libs that i can write hello world in are svelte, react, next, vue, nuxt</pre>
