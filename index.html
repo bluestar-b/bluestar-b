@@ -31,7 +31,7 @@
       fileStructureDiv.innerHTML = '';
 
       data.forEach(item => {
-        const fileUrl = `https://raw.githubusercontent.com/bluestar-b/bluestar-b/refs/heads/main/${item.file}`;
+        const fileUrl = `https://bluestar-b.github.io/bluestar-b/fun_stuff_here/${item.file}`;
         const link = document.createElement('a');
         link.href = fileUrl;
         link.textContent = `${item.file} ${item.size}`;
