@@ -1,4 +1,4 @@
-name: List All Files and Save
+name: List All Files and Save Metadata
 
 on:
   push:
@@ -12,16 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: List all files and subdirectories excluding .git and remove './'
+      - name: List all files and subdirectories excluding .git and gather metadata
         run: |
-          find . -type f -not -path '*/.git/*' | sed 's|^\./||' | jq -R . | jq -s . > file_list.json
+          find . -type f -not -path '*/.git/*' | while read file; do
+            # Gather file metadata using stat and convert to JSON format
+            stat_output=$(stat --format '{"file":"%n","size":%s,"permissions":"%A","last_modified":"%y","type":"%F"}' "$file")
+            echo "$stat_output" >> file_list.json
+          done
 
       - name: Commit and push file list
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add file_list.json
-          git commit -m "Update file list"
+          git commit -m "Update file list with metadata"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,8 +33,8 @@ jobs:
   upload-artifact:
     runs-on: ubuntu-latest
     steps:
-      - name: Upload file list as artifact
+      - name: Upload file list with metadata as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: file_list
+          name: file_list_with_metadata
           path: file_list.json
