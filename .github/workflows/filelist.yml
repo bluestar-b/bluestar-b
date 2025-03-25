@@ -1,5 +1,3 @@
-permissions: read-all|write-all
-
 name: List All Files and Save
 
 on:
