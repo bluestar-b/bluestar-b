@@ -1,0 +1,35 @@
+permissions: read-all|write-all
+name: List All Files and Save
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+jobs:
+  list_files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get all files and save to a file
+        id: filelist
+        uses: the-coding-turtle/ga-file-list@v0.2
+        with:
+          directory: "/"
+          ignore_files_starts_with: "ignore_;test"
+          ignore_files_starts_with_delimiter: ";"
+
+      - name: Save file list to a file
+        run: echo "${{ steps.filelist.outputs.files }}" > file_list.json
+
+      - name: Commit and push file list
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add file_list.json
+          git commit -m "Update file list"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
