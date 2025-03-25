@@ -14,7 +14,7 @@ jobs:
 
       - name: Run Python script to gather file metadata
         run: |
-          echo "
+          python3 -c "
 import os
 import json
 import stat
@@ -51,8 +51,7 @@ if __name__ == '__main__':
     file_metadata = gather_file_metadata(root_directory)
     with open('file_list.json', 'w') as json_file:
         json.dump(file_metadata, json_file, indent=4)
-" > gather_file_metadata.py
-          python3 gather_file_metadata.py
+          "
 
       - name: Commit and push file list
         run: |
