@@ -12,9 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: List all files and subdirectories
+      - name: List all files and subdirectories excluding .git and remove './'
         run: |
-          find . -type f | jq -R . | jq -s . > file_list.json
+          find . -type f -not -path '*/.git/*' | sed 's|^\./||' | jq -R . | jq -s . > file_list.json
 
       - name: Commit and push file list
         run: |
