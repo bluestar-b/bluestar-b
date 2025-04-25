@@ -3,7 +3,7 @@ from PIL import Image
 
 base_dir = Path('full_res')
 thumb_suffix = '_thumb'
-thumb_size = (256, 256)
+thumb_size = (512, 512)
 
 def make_thumbnail(img_path: Path):
     if thumb_suffix in img_path.stem:
@@ -17,7 +17,7 @@ def make_thumbnail(img_path: Path):
         with Image.open(img_path) as img:
             img.convert('RGB')
             img.thumbnail(thumb_size)
-            img.save(thumb_path, quality=50)
+            img.save(thumb_path, quality=75)
             print(f"✓ {thumb_path.relative_to(base_dir)}")
     except Exception as e:
         print(f"✗ Failed {img_path}: {e}")
