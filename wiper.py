@@ -2,6 +2,7 @@ import piexif
 from PIL import Image
 import random
 import os
+from concurrent.futures import ThreadPoolExecutor
 
 def deg_to_dms_rational(deg):
     d = int(deg)
@@ -43,10 +44,15 @@ def replace_gps_data(image_path):
         print(f"Error processing {image_path}: {e}")
 
 def process_folder(folder):
+    image_paths = []
     for root, dirs, files in os.walk(folder):
         for file in files:
             if file.lower().endswith((".jpg", ".jpeg")) and "_thumb" not in file.lower():
                 full_path = os.path.join(root, file)
-                replace_gps_data(full_path)
+                image_paths.append(full_path)
+
+    # Use ThreadPoolExecutor to process images in parallel
+    with ThreadPoolExecutor() as executor:
+        executor.map(replace_gps_data, image_paths)
 
 process_folder(os.path.expanduser("full_res/"))
